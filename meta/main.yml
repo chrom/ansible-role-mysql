@@ -22,6 +22,9 @@ galaxy_info:
     - name: Archlinux
       versions:
         - all
+    - name: OpenSuse
+      versions:
+        - Tumbleweed
   galaxy_tags:
     - database
     - mysql
